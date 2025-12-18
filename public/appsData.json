@@ -1,0 +1,452 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1584697964400-a5d545ff7c9e?auto=format&fit=crop&w=500&q=80",
+    "title": "TaskMaster Pro",
+    "companyName": "Efficient Apps Ltd.",
+    "id": 1,
+    "description": "A powerful task management tool for professionals.",
+    "size": 45,
+    "reviews": 1045,
+    "ratingAvg": 4.5,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 375 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1554284126-aa88f22d8f53?auto=format&fit=crop&w=500&q=80",
+    "title": "FitTrack",
+    "companyName": "HealthTech Co.",
+    "id": 2,
+    "description": "Your personal fitness and health tracking companion.",
+    "size": 30,
+    "reviews": 850,
+    "ratingAvg": 4.3,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 330 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1567427018141-0584cfcbf1f8?auto=format&fit=crop&w=500&q=80",
+    "title": "BudgetBuddy",
+    "companyName": "Finance Wizards",
+    "id": 3,
+    "description": "Simplify your finances with smart budgeting tools.",
+    "size": 25,
+    "reviews": 1320,
+    "ratingAvg": 4.7,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 45 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 650 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=500&q=80",
+    "title": "TravelMate",
+    "companyName": "Wanderlust Inc.",
+    "id": 4,
+    "description": "Plan and organize your trips with ease.",
+    "size": 50,
+    "reviews": 980,
+    "ratingAvg": 4.4,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 55 },
+      { "name": "3 star", "count": 130 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 415 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1483058712412-4245e9b90334?auto=format&fit=crop&w=500&q=80",
+    "title": "NoteNest",
+    "companyName": "Creative Softworks",
+    "id": 5,
+    "description": "Your ultimate note-taking app with cloud sync.",
+    "size": 22,
+    "reviews": 1400,
+    "ratingAvg": 4.8,
+    "downloads": 1600000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 520 },
+      { "name": "5 star", "count": 740 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=500&q=80",
+    "title": "PhotoPerfect",
+    "companyName": "PixelWorks",
+    "id": 6,
+    "description": "Edit photos professionally with ease.",
+    "size": 60,
+    "reviews": 1120,
+    "ratingAvg": 4.6,
+    "downloads": 1300000,
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 420 },
+      { "name": "5 star", "count": 515 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1518214381951-673720fca0f9?auto=format&fit=crop&w=500&q=80",
+    "title": "MindfulMe",
+    "companyName": "Zen Apps",
+    "id": 7,
+    "description": "Meditation and mindfulness for a better you.",
+    "size": 28,
+    "reviews": 900,
+    "ratingAvg": 4.5,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 28 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 320 },
+      { "name": "5 star", "count": 427 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1498575207491-3e91e99b71b2?auto=format&fit=crop&w=500&q=80",
+    "title": "CookBook",
+    "companyName": "Yummy Soft",
+    "id": 8,
+    "description": "Thousands of recipes with step-by-step instructions.",
+    "size": 40,
+    "reviews": 1100,
+    "ratingAvg": 4.4,
+    "downloads": 1050000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 380 },
+      { "name": "5 star", "count": 490 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1559526324-593bc073d938?auto=format&fit=crop&w=500&q=80",
+    "title": "Learnify",
+    "companyName": "EduTech",
+    "id": 9,
+    "description": "Interactive learning for kids and adults.",
+    "size": 35,
+    "reviews": 1250,
+    "ratingAvg": 4.7,
+    "downloads": 1400000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 95 },
+      { "name": "4 star", "count": 480 },
+      { "name": "5 star", "count": 615 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=500&q=80",
+    "title": "NewsFlash",
+    "companyName": "Global Media",
+    "id": 10,
+    "description": "Real-time news from trusted sources worldwide.",
+    "size": 27,
+    "reviews": 980,
+    "ratingAvg": 4.2,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 380 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1588776814546-1b5107b0e4d1?auto=format&fit=crop&w=500&q=80",
+    "title": "SleepWell",
+    "companyName": "DreamSoft",
+    "id": 11,
+    "description": "Improve your sleep with guided sounds and tips.",
+    "size": 24,
+    "reviews": 890,
+    "ratingAvg": 4.3,
+    "downloads": 870000,
+    "ratings": [
+      { "name": "1 star", "count": 32 },
+      { "name": "2 star", "count": 45 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 403 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1499896061403-2b3a7a0b9b8d?auto=format&fit=crop&w=500&q=80",
+    "title": "WeatherNow",
+    "companyName": "SkyNet",
+    "id": 12,
+    "description": "Fast and accurate weather updates worldwide.",
+    "size": 33,
+    "reviews": 1125,
+    "ratingAvg": 4.5,
+    "downloads": 1150000,
+    "ratings": [
+      { "name": "1 star", "count": 28 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 95 },
+      { "name": "4 star", "count": 420 },
+      { "name": "5 star", "count": 542 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=500&q=80",
+    "title": "ChatMate",
+    "companyName": "Connectify",
+    "id": 13,
+    "description": "Secure and fast messaging for everyone.",
+    "size": 38,
+    "reviews": 1300,
+    "ratingAvg": 4.6,
+    "downloads": 1250000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 430 },
+      { "name": "5 star", "count": 680 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1599932944698-d71a8a2ec6cd?auto=format&fit=crop&w=500&q=80",
+    "title": "FitLife",
+    "companyName": "Active Co.",
+    "id": 14,
+    "description": "Your personal workout and nutrition coach.",
+    "size": 29,
+    "reviews": 950,
+    "ratingAvg": 4.4,
+    "downloads": 980000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 45 },
+      { "name": "3 star", "count": 95 },
+      { "name": "4 star", "count": 320 },
+      { "name": "5 star", "count": 350 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1523475496153-3a0c5edb5e90?auto=format&fit=crop&w=500&q=80",
+    "title": "ShopEasy",
+    "companyName": "RetailSoft",
+    "id": 15,
+    "description": "Simplify your shopping experience with deals and offers.",
+    "size": 42,
+    "reviews": 1180,
+    "ratingAvg": 4.5,
+    "downloads": 1220000,
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 115 },
+      { "name": "4 star", "count": 390 },
+      { "name": "5 star", "count": 590 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1503437313881-503a91226419?auto=format&fit=crop&w=500&q=80",
+    "title": "EcoTrack",
+    "companyName": "GreenTech",
+    "id": 16,
+    "description": "Track your carbon footprint and eco-friendly habits.",
+    "size": 26,
+    "reviews": 720,
+    "ratingAvg": 4.2,
+    "downloads": 650000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 300 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=500&q=80",
+    "title": "CodeMaster",
+    "companyName": "DevSoft",
+    "id": 17,
+    "description": "Learn to code with interactive tutorials.",
+    "size": 48,
+    "reviews": 980,
+    "ratingAvg": 4.6,
+    "downloads": 720000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 450 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1581291519195-ef11498d1cf5?auto=format&fit=crop&w=500&q=80",
+    "title": "PetPal",
+    "companyName": "Furry Friends Inc.",
+    "id": 18,
+    "description": "Track your pets’ activities and health.",
+    "size": 30,
+    "reviews": 650,
+    "ratingAvg": 4.4,
+    "downloads": 580000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 275 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=500&q=80",
+    "title": "GameZone",
+    "companyName": "FunGames Ltd.",
+    "id": 19,
+    "description": "Play and challenge friends in mini games.",
+    "size": 55,
+    "reviews": 1100,
+    "ratingAvg": 4.5,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 505 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1573164574233-19db5c3b1de4?auto=format&fit=crop&w=500&q=80",
+    "title": "ShopList",
+    "companyName": "RetailSoft",
+    "id": 20,
+    "description": "Organize shopping lists and track expenses.",
+    "size": 28,
+    "reviews": 730,
+    "ratingAvg": 4.3,
+    "downloads": 620000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 55 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 335 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&w=500&q=80",
+    "title": "MindBoost",
+    "companyName": "Brainy Apps",
+    "id": 21,
+    "description": "Brain exercises to boost focus and memory.",
+    "size": 33,
+    "reviews": 800,
+    "ratingAvg": 4.4,
+    "downloads": 680000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 70 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 375 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=500&q=80",
+    "title": "StyleMate",
+    "companyName": "FashionSoft",
+    "id": 22,
+    "description": "Plan outfits and get style recommendations.",
+    "size": 27,
+    "reviews": 650,
+    "ratingAvg": 4.2,
+    "downloads": 540000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 210 },
+      { "name": "5 star", "count": 335 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=500&q=80",
+    "title": "MusicFlow",
+    "companyName": "SoundWave",
+    "id": 23,
+    "description": "Stream music and create your own playlists.",
+    "size": 50,
+    "reviews": 1200,
+    "ratingAvg": 4.6,
+    "downloads": 1050000,
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 45 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 610 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?auto=format&fit=crop&w=500&q=80",
+    "title": "ArtBoard",
+    "companyName": "CreativeSoft",
+    "id": 24,
+    "description": "Digital drawing and painting for artists.",
+    "size": 58,
+    "reviews": 850,
+    "ratingAvg": 4.5,
+    "downloads": 720000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 405 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1556228720-1b1e2b23f6f0?auto=format&fit=crop&w=500&q=80",
+    "title": "TravelLog",
+    "companyName": "WanderSoft",
+    "id": 25,
+    "description": "Document your journeys with photos and notes.",
+    "size": 36,
+    "reviews": 770,
+    "ratingAvg": 4.3,
+    "downloads": 680000,
+    "ratings": [
+      { "name": "1 star", "count": 28 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 70 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 357 }
+    ]
+  }
+]
